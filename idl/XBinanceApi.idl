@@ -1,0 +1,9 @@
+#include <com/sun/star/uno/XInterface.idl>
+
+module com { module crypto { module api { module Binance {
+
+    interface XCryptoBinance {
+        double binancePrice( [in] string symbol );
+    };
+
+}; }; }; };
