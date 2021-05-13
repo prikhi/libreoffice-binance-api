@@ -2,7 +2,7 @@
 # Based off of example created by jan@biochemfusion.com April 2009.
 
 addin_id = "com.crypto.api.Binance"
-addin_version = "1.0.0"
+addin_version = "2.0.0"
 addin_displayname = "Binance API"
 addin_publisher_link = "http://www.github.com/prikhi/libreoffice-binance-api/"
 addin_publisher_name = "Pavan Rikhi"
